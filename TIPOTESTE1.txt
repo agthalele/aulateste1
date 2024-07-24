@@ -1,1 +1,16 @@
-mmmm
+Aula 24/07
+
+criar um repositorio no Github
+crie um arquivo .txt
+faça um commit desse arquivo e faça o push:  git push origin main
+
+apos isso, crie uma branch de testes usando
+git checkout -b testes
+altere o arquivo inicial
+git add NOMEDOARQUIVO.txt
+git commit -m "Mensagem"
+git push origin teste
+
+git config --local user.name "agthalele" 
+git config --local user.email "agatha.leticia.327@gmail.com"
+
